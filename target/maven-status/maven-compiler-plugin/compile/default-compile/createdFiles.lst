@@ -1,0 +1,17 @@
+com/guru/feeds/model/Configuration.class
+com/guru/feeds/controller/DataStoreController.class
+com/guru/feeds/repository/ConfigurationRepository.class
+com/guru/feeds/dto/Tenant.class
+com/guru/feeds/dto/ConfigurationDto.class
+com/guru/feeds/controller/DataSetsController.class
+com/guru/feeds/config/SwaggerConfig.class
+com/guru/feeds/dto/DataStoreDto.class
+com/guru/feeds/controller/ConfigurationController.class
+com/guru/feeds/model/DataStore.class
+com/guru/feeds/dto/DataSets.class
+com/guru/feeds/MillenniumOdsFeedsServiceApplication.class
+com/guru/feeds/model/DataSet.class
+com/guru/feeds/repository/DataSetRepository.class
+com/guru/feeds/dto/DataSetRequestDto.class
+com/guru/feeds/repository/DataStoreRepository.class
+com/guru/feeds/controller/ControllerExceptionHandler.class

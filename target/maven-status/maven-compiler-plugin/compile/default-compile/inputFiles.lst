@@ -1,0 +1,17 @@
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/MillenniumOdsFeedsServiceApplication.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/config/SwaggerConfig.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/dto/DataSets.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/dto/DataSetRequestDto.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/model/DataSet.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/model/Configuration.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/model/DataStore.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/repository/DataStoreRepository.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/repository/ConfigurationRepository.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/dto/Tenant.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/dto/ConfigurationDto.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/dto/DataStoreDto.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/controller/DataStoreController.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/controller/DataSetsController.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/controller/ConfigurationController.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/controller/ControllerExceptionHandler.java
+/Users/gb047137/kirikparty/spring/guru/guru_ods_feeds_service/src/main/java/com/guru/feeds/repository/DataSetRepository.java
